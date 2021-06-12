@@ -1,3 +1,3 @@
-module github.com/gravityblast/xrequestid
+module github.com/MugiOka/xrequestid
 
 go 1.16
